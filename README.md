@@ -6,9 +6,9 @@
 NaturalFaithful is a resource pack for Minecraft Java Edition. It is an attempt to make Minecraft look more realistic and overall a little bit better. It works as an add-on for Faithful.
 
 ### Screenshots
-![Minecraft Screenshot](https://raw.githubusercontent.com/Domi04151309/NaturalFaithful/master/landscape.png)
+![Minecraft Screenshot](https://raw.githubusercontent.com/Domi04151309/NaturalFaithful/master/landscape.jpg)
 
-![Minecraft Screenshot](https://raw.githubusercontent.com/Domi04151309/NaturalFaithful/master/preview.png)
+![Minecraft Screenshot](https://raw.githubusercontent.com/Domi04151309/NaturalFaithful/master/preview.jpg)
 
 ### How to Install
 You have to download this resource pack and [Faithful x32](https://faithful.team/downloads/).
@@ -35,6 +35,5 @@ It is important that the addon is on top of the default faithful pack!
 The original work has been modified.
 
 ### Looks Even Better With
-- [Bread Hunger](https://faithful.team/downloads/#bread_hunger) by Taaalia
 - [Faithful Alternative](https://faithful.team/downloads/#faithful_alternative) by HARAGON_MC
 - [Visual Honey](https://faithful.team/downloads/#visual_honey) by Fracta1is
