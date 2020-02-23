@@ -1,0 +1,7 @@
+{
+    "parent": "item/wooden_hoe",
+    "textures": {
+        "layer0": "item/stone_hoe",
+		"particle": "item/stone_hoe"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "variants": {
+        "distance=1": [
+			{ "model": "block/dark_oak_leaves", "weight": 30 },
+			{ "model": "block/dark_oak_leaves1", "weight": 7 },
+			{ "model": "block/dark_oak_leaves2", "weight": 13 },
+			{ "model": "block/dark_oak_leaves3", "weight": 25 },
+			{ "model": "block/dark_oak_leaves4", "weight": 25 }
+				],
+        "distance=2": [
+			{ "model": "block/dark_oak_leaves", "weight": 30 },
+			{ "model": "block/dark_oak_leaves1", "weight": 7 },
+			{ "model": "block/dark_oak_leaves2", "weight": 13 },
+			{ "model": "block/dark_oak_leaves3", "weight": 25 },
+			{ "model": "block/dark_oak_leaves4", "weight": 25 }
+				],
+        "distance=3": [
+			{ "model": "block/dark_oak_leaves", "weight": 30 },
+			{ "model": "block/dark_oak_leaves1", "weight": 7 },
+			{ "model": "block/dark_oak_leaves2", "weight": 13 },
+			{ "model": "block/dark_oak_leaves3", "weight": 25 },
+			{ "model": "block/dark_oak_leaves4", "weight": 25 }
+				],
+        "distance=4": [
+			{ "model": "block/dark_oak_leaves", "weight": 30 },
+			{ "model": "block/dark_oak_leaves1", "weight": 7 },
+			{ "model": "block/dark_oak_leaves2", "weight": 13 },
+			{ "model": "block/dark_oak_leaves3", "weight": 25 },
+			{ "model": "block/dark_oak_leaves4", "weight": 25 }
+				],
+        "distance=5": [
+			{ "model": "block/dark_oak_leaves", "weight": 30 },
+			{ "model": "block/dark_oak_leaves1", "weight": 7 },
+			{ "model": "block/dark_oak_leaves2", "weight": 13 },
+			{ "model": "block/dark_oak_leaves3", "weight": 25 },
+			{ "model": "block/dark_oak_leaves4", "weight": 25 }
+				],
+        "distance=6": [
+			{ "model": "block/dark_oak_leaves", "weight": 30 },
+			{ "model": "block/dark_oak_leaves1", "weight": 7 },
+			{ "model": "block/dark_oak_leaves2", "weight": 13 },
+			{ "model": "block/dark_oak_leaves3", "weight": 25 },
+			{ "model": "block/dark_oak_leaves4", "weight": 25 }
+				],
+        "distance=7": [
+			{ "model": "block/dark_oak_leaves", "weight": 30 },
+			{ "model": "block/dark_oak_leaves1", "weight": 7 },
+			{ "model": "block/dark_oak_leaves2", "weight": 13 },
+			{ "model": "block/dark_oak_leaves3", "weight": 25 },
+			{ "model": "block/dark_oak_leaves4", "weight": 25 }
+				]
+    }
+}
