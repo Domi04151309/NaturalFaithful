@@ -41,6 +41,9 @@ A list with the settings used to change the textures. The program used is [paint
 | cartography_table_top.png | -4 | 100% | ±0 | +50 | +50 |
 | chiseled_sandstone.png | ±0 | 50% | ±0 | - | - |
 | chiseled_red_sandstone.png | -8 | 100% | ±0 | - | - |
+| composter_bottom.png | -8 | 75% | -25 | - | - |
+| composter_side.png | -8 | 75% | -25 | - | - |
+| composter_top.png | -8 | 75% | -25 | - | - |
 | crafting_table_front.png | -4 | 75% | ±0 | - | - |
 | crafting_table_side.png | -4 | 75% | ±0 | - | - |
 | crafting_table_top.png | -4 | 75% | ±0 | - | - |
