@@ -97,6 +97,9 @@ A list with the settings used to change the textures. The program used is [paint
 | sandstone.png | ±0 | 50% | ±0 | - | - |
 | sandstone_bottom.png | ±0 | 50% | ±0 | - | - |
 | sandstone_top.png | ±0 | 50% | ±0 | - | - |
+| scaffolding_bottom.png | -16 | 75% | ±0 | - | - |
+| scaffolding_side.png | -16 | 75% | ±0 | - | - |
+| scaffolding_top.png | -16 | 75% | ±0 | - | - |
 | spruce_door_bottom.png | -8 | 75% | -25 | - | - |
 | spruce_door_top.png | -8 | 75% | -25 | - | - |
 | spruce_log_top.png | -8 | 75% | -25 | - | - |
