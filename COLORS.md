@@ -13,6 +13,10 @@ A list with the settings used to change the textures. The program used is [paint
 | acacia_trapdoor.png | ±0 | 75% | ±0 | - | - |
 | activator_rail.png | -4 | 75% | ±0 | - | - |
 | activator_rail_on.png | -4 | 75% | ±0 | - | - |
+| barrel_bottom.png | -8 | 75% | -25 | - | - |
+| barrel_side.png | -8 | 75% | -25 | - | - |
+| barrel_top.png | -8 | 75% | -25 | - | - |
+| barrel_top_open.png | -8 | 75% | -25 | - | - |
 | bedrock.png (stone.png) | - | - | - | -50 | +25 |
 | beehive_end.png | -4 | 75% | ±0 | - | - |
 | beehive_front.png | -4 | 75% | ±0 | - | - |
