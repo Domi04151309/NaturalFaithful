@@ -3,7 +3,9 @@
 ![Minecraft Version](https://img.shields.io/badge/Minecraft-1.15.2-success)
 
 # NaturalFaithful
-NaturalFaithful is a resource pack for Minecraft Java Edition. It is an attempt to make Minecraft look more realistic and overall a little bit better. It works as an add-on for Faithful.
+NaturalFaithful is a resource pack for Minecraft Java Edition that works as an add-on for Faithful.
+This add-on is a collection of other add-ons and custom self-made textures to ensure compatability and the best possible user experience.
+It is an attempt to make Minecraft look more realistic and overall a little bit better.
 
 ### Screenshots
 ![Minecraft Screenshot](https://raw.githubusercontent.com/Domi04151309/NaturalFaithful/master/landscape.jpg)
@@ -22,7 +24,7 @@ It is important that the addon is on top of the default faithful pack!
 ![Version](https://img.shields.io/badge/MoreCTM%20Add--on%20for%20Faithful%2032x-1.15.1-success)
 
 - [Bushy Leaves Add-on for Faithful 32x](https://www.curseforge.com/minecraft/texture-packs/bushy-leaves-add-on-for-faithful-32x) by Pomik108
-- [Faithful 3D](https://www.curseforge.com/minecraft/texture-packs/bushy-leaves-add-on-for-faithful-32x) by Juknum, Progical and Howler
+- [Faithful 3D](https://www.curseforge.com/minecraft/texture-packs/faithful-3d) by Juknum, Progical and Howler
 - [Faithful x32](https://faithful.team/) by xMrVizzy and Vattic
 - [MoreCTM Add–on for Faithful 32x](https://www.curseforge.com/minecraft/texture-packs/morectm-addon-for-faithful-32x) by Pomik108
 
