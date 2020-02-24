@@ -23,6 +23,10 @@ A list with the settings used to change the textures. The program used is [paint
 | cactus_bottom.png | -16 | 80% | ±0 | - | - |
 | cactus_side.png | -16 | 80% | ±0 | - | - |
 | cactus_top.png | -16 | 80% | ±0 | - | - |
+| cartography_table_side1.png | -4 | 100% | ±0 | +50 | +50 |
+| cartography_table_side2.png | -4 | 100% | ±0 | +50 | +50 |
+| cartography_table_side3.png | -4 | 100% | ±0 | +50 | +50 |
+| cartography_table_top.png | -4 | 100% | ±0 | +50 | +50 |
 | chiseled_sandstone.png | ±0 | 50% | ±0 | - | - |
 | chiseled_red_sandstone.png | -8 | 100% | ±0 | - | - |
 | crafting_table_front.png | -4 | 75% | ±0 | - | - |
@@ -35,6 +39,9 @@ A list with the settings used to change the textures. The program used is [paint
 | dark_oak_log_top.png | -4 | 100% | ±0 | +50 | +50 |
 | dark_oak_planks.png | -4 | 100% | ±0 | +50 | +50 |
 | dark_oak_trapdoor.png | -4 | 100% | ±0 | +50 | +50 |
+| fletching_table_front.png | -16 | 75% | ±0 | - | - |
+| fletching_table_side.png | -16 | 75% | ±0 | - | - |
+| fletching_table_top.png | -16 | 75% | ±0 | - | - |
 | grass_path_side.png | -16 | 75% | ±0 | - | - |
 | grass_path_top.png | -16 | 75% | ±0 | - | - |
 | ladder.png | -4 | 75% | ±0 | - | - |
