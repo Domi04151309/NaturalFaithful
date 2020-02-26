@@ -27,7 +27,7 @@ It is important that the addon is on top of the default faithful pack!
 
 - [Bushy Leaves Add-on for Faithful 32x](https://www.curseforge.com/minecraft/texture-packs/bushy-leaves-add-on-for-faithful-32x) by Pomik108
 - [Faithful 3D](https://www.curseforge.com/minecraft/texture-packs/faithful-3d) by Juknum, Progical and Howler
-- [Faithful Alternative](https://www.planetminecraft.com/texture_pack/faithful-alternative-texture/) by jogurciQ, Pomik, PROJECT HJP and Juknum, Progical and UnlikeHowler
+- [Faithful Alternative](https://www.planetminecraft.com/texture_pack/faithful-alternative-texture/) by jogurciQ, Pomik, PROJECT HJP, Juknum, Progical and UnlikeHowler
 - [Faithful x32](https://faithful.team/) by xMrVizzy and Vattic
 - [MoreCTM Add–on for Faithful 32x](https://www.curseforge.com/minecraft/texture-packs/morectm-addon-for-faithful-32x) by Pomik108
 
