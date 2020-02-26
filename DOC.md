@@ -3,7 +3,6 @@
 ## Not Yet Implemented
 
 ### Models
-- lily_pad
 - rail
 - bookshelf
 

@@ -8,7 +8,23 @@
             { "model": "block/lily_pad/0" },
             { "model": "block/lily_pad/0", "y": 90 },
             { "model": "block/lily_pad/0", "y": 180 },
-            { "model": "block/lily_pad/0", "y": 270 }
+            { "model": "block/lily_pad/0", "y": 270 },
+            { "model": "block/lily_pad/1" },
+            { "model": "block/lily_pad/1", "y": 90 },
+            { "model": "block/lily_pad/1", "y": 180 },
+            { "model": "block/lily_pad/1", "y": 270 },
+            { "model": "block/lily_pad/2" },
+            { "model": "block/lily_pad/2", "y": 90 },
+            { "model": "block/lily_pad/2", "y": 180 },
+            { "model": "block/lily_pad/2", "y": 270 },
+            { "model": "block/lily_pad/3" },
+            { "model": "block/lily_pad/3", "y": 90 },
+            { "model": "block/lily_pad/3", "y": 180 },
+            { "model": "block/lily_pad/3", "y": 270 },
+            { "model": "block/lily_pad/4" },
+            { "model": "block/lily_pad/4", "y": 90 },
+            { "model": "block/lily_pad/4", "y": 180 },
+            { "model": "block/lily_pad/4", "y": 270 }
         ]
     }
 }
