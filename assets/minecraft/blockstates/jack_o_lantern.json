@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/jack_o_lantern"},
+            { "model": "block/jack_o_lantern/1"},
+			{ "model": "block/jack_o_lantern/2"},
+			{ "model": "block/jack_o_lantern/3"}
+        ]
+    }
+}

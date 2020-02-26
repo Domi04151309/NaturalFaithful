@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/allium" },
+            { "model": "block/allium/1" },
+            { "model": "block/allium/2" },
+			{ "model": "block/allium/3" },
+			{ "model": "block/allium/4" },
+			{ "model": "block/allium/5" },
+			{ "model": "block/allium/6" },
+			{ "model": "block/allium/7" },
+			{ "model": "block/allium/8" },
+			{ "model": "block/allium/9" },
+			{ "model": "block/allium/10" },
+			{ "model": "block/allium/11" },
+			{ "model": "block/allium/12" },
+			{ "model": "block/allium/13" },
+			{ "model": "block/allium/14" },
+			{ "model": "block/allium/15" }
+        ]
+    }
+}

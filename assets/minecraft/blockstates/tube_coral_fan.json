@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/tube_coral_fan"},
+            { "model": "block/tube_coral_fan/1"},
+            { "model": "block/tube_coral_fan/2"}
+        ]
+    }
+}
