@@ -1,10 +1,14 @@
 # Doc
 
-### Not Yet Implemented
+## Not Yet Implemented
+
+### Models
 - brown_mushroom
-- cactus
 - lily_pad
 - oak_leaves
 - rail
 - red_mushroom
 - bookshelf
+
+### Optifine
+- sky box
