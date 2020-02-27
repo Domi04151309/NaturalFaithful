@@ -1,8 +1,16 @@
 {
     "__comment": "Designed by Juknum",
     "variants": {
-        "shape=north_south": { "model": "block/rail/rail" },
-        "shape=east_west": { "model": "block/rail/rail", "y": 90 },
+        "shape=north_south": [
+          { "model": "block/rail/rail" },
+          { "model": "block/rail/1" },
+          { "model": "block/rail/2" }
+        ],
+        "shape=east_west": [
+          { "model": "block/rail/rail", "y": 90 },
+          { "model": "block/rail/1", "y": 90 },
+          { "model": "block/rail/2", "y": 90 }
+        ],
         "shape=ascending_east": { "model": "block/rail/rail_raised", "y": 90 },
         "shape=ascending_west": { "model": "block/rail/rail_raised", "y": -90},
         "shape=ascending_north": { "model": "block/rail/rail_raised"},
