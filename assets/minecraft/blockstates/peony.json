@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "half=lower": [
+			{ "model": "block/peony_bottom" },
+			{ "model": "block/peony/bottom/1" }
+		],
+        "half=upper": [
+			{ "model": "block/peony_top" },
+			{ "model": "block/peony/top/1" }
+		]
+    }
+}

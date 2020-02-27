@@ -1,0 +1,7 @@
+{
+	"parent": "block/oak_leaves/model",
+	"textures": {
+		"all": "block/oak_leaves",
+		"overlay": "block/oak_leaves_overlay7"
+	}
+}

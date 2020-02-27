@@ -1,0 +1,18 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/netherrack"},
+            { "model": "block/netherrack", "y": 90 },
+            { "model": "block/netherrack", "y": 180 },
+            { "model": "block/netherrack", "y": 270 },
+            { "model": "block/netherrack/1"},
+            { "model": "block/netherrack/1", "y": 90 },
+            { "model": "block/netherrack/1", "y": 180 },
+            { "model": "block/netherrack/1", "y": 270 },
+            { "model": "block/netherrack/2"},
+            { "model": "block/netherrack/2", "y": 90 },
+            { "model": "block/netherrack/2", "y": 180 },
+            { "model": "block/netherrack/2", "y": 270 }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "variants": {
+        "type=bottom": [
+		    { "model": "block/brick_slab" },
+			{ "model": "block/brick_slab/1" },
+			{ "model": "block/brick_slab/2" },
+			{ "model": "block/brick_slab/3" },
+			{ "model": "block/brick_slab/4" }
+		],
+        "type=top": [
+		    { "model": "block/brick_slab_top" },
+			{ "model": "block/brick_slab_top/1" },
+			{ "model": "block/brick_slab_top/2" },
+			{ "model": "block/brick_slab_top/3" },
+			{ "model": "block/brick_slab_top/4" }
+		],
+        "type=double": [
+		    { "model": "block/bricks" },
+			{ "model": "block/bricks/1" },
+			{ "model": "block/bricks/2" },
+			{ "model": "block/bricks/3" },
+			{ "model": "block/bricks/4" }
+		]
+    }
+}

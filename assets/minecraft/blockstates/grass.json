@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/grass", "weight": 10 },
+            { "model": "block/grass/1", "weight": 10 },
+            { "model": "block/grass/2", "weight": 10 },
+            { "model": "block/grass/3", "weight": 3 },
+			{ "model": "block/grass/4", "weight": 10 },
+			{ "model": "block/grass/5", "weight": 3 },
+			{ "model": "block/grass/6", "weight": 3 },
+			{ "model": "block/grass/7", "weight": 3 },
+			{ "model": "block/grass/8", "weight": 3 },
+			{ "model": "block/grass/9", "weight": 10 },
+			{ "model": "block/grass/10", "weight": 10 },
+			{ "model": "block/grass/11", "weight": 10 },
+			{ "model": "block/grass/12", "weight": 10 },
+			{ "model": "block/grass/13", "weight": 10 },
+			{ "model": "block/grass/14", "weight": 10 }
+        ]
+    }
+}
+

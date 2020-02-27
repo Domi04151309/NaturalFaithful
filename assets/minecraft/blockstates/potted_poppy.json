@@ -1,0 +1,14 @@
+{
+    "variants": {
+		"": [
+            { "model": "block/potted_poppy" },
+            { "model": "block/potted_poppy/1" },
+			{ "model": "block/potted_poppy/2" },
+			{ "model": "block/potted_poppy/3" },
+			{ "model": "block/potted_poppy/4" },
+			{ "model": "block/potted_poppy/5" },
+			{ "model": "block/potted_poppy/6" },
+			{ "model": "block/potted_poppy/7" }
+        ]
+    }
+}

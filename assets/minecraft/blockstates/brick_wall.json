@@ -1,0 +1,49 @@
+{
+    "multipart": [
+        {   "when": { "up": "true" },
+            "apply": [
+			    { "model": "block/brick_wall_post" },
+				{ "model": "block/brick_wall_post/1" },
+				{ "model": "block/brick_wall_post/2" },
+				{ "model": "block/brick_wall_post/3" },
+				{ "model": "block/brick_wall_post/4" }
+            ]
+		},
+        {   "when": { "north": "true" },
+            "apply": [
+			   { "model": "block/brick_wall_side", "uvlock": true },
+			   { "model": "block/brick_wall_side/1", "uvlock": true },
+			   { "model": "block/brick_wall_side/2", "uvlock": true },
+			   { "model": "block/brick_wall_side/3", "uvlock": true },
+			   { "model": "block/brick_wall_side/4", "uvlock": true }
+			]
+        },
+        {   "when": { "east": "true" },
+            "apply": [
+			   { "model": "block/brick_wall_side", "y": 90, "uvlock": true },
+			   { "model": "block/brick_wall_side/1", "y": 90, "uvlock": true },
+			   { "model": "block/brick_wall_side/2", "y": 90, "uvlock": true },
+			   { "model": "block/brick_wall_side/3", "y": 90, "uvlock": true },
+			   { "model": "block/brick_wall_side/4", "y": 90, "uvlock": true }
+			]
+        },
+        {   "when": { "south": "true" },
+            "apply": [
+			   { "model": "block/brick_wall_side", "y": 180, "uvlock": true },
+			   { "model": "block/brick_wall_side/1", "y": 180, "uvlock": true },
+			   { "model": "block/brick_wall_side/2", "y": 180, "uvlock": true },
+			   { "model": "block/brick_wall_side/3", "y": 180, "uvlock": true },
+			   { "model": "block/brick_wall_side/4", "y": 180, "uvlock": true }
+			]
+        },
+        {   "when": { "west": "true" },
+            "apply": [
+			   { "model": "block/brick_wall_side", "y": 270, "uvlock": true },
+			   { "model": "block/brick_wall_side/1", "y": 270, "uvlock": true },
+			   { "model": "block/brick_wall_side/2", "y": 270, "uvlock": true },
+			   { "model": "block/brick_wall_side/3", "y": 270, "uvlock": true },
+			   { "model": "block/brick_wall_side/4", "y": 270, "uvlock": true }
+			]
+        }
+    ]
+}
