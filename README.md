@@ -24,12 +24,14 @@ It is important that the addon is on top of the default faithful pack!
 ![Version](https://img.shields.io/badge/Faithful%20Alternative-1.15.2--v2.2-success?style=flat-square)
 ![Version](https://img.shields.io/badge/Faithful%20x32-1.15.2--r1-success?style=flat-square)
 ![Version](https://img.shields.io/badge/MoreCTM%20Add--on%20for%20Faithful%2032x-1.15.1-success?style=flat-square)
+![Version](https://img.shields.io/badge/Real%20Nature-v2.3-success?style=flat-square)
 
 - [Bushy Leaves Add-on for Faithful 32x](https://www.curseforge.com/minecraft/texture-packs/bushy-leaves-add-on-for-faithful-32x) by Pomik108
 - [Faithful 3D](https://www.curseforge.com/minecraft/texture-packs/faithful-3d) by Juknum, Progical and Howler
-- [Faithful Alternative](https://www.planetminecraft.com/texture_pack/faithful-alternative-texture/) by jogurciQ, Pomik, PROJECT HJP, Juknum, Progical and UnlikeHowler
+- [Faithful Alternative](https://www.planetminecraft.com/texture_pack/faithful-alternative-texture/) by jogurciQ, Pomik and PROJECT HJP
 - [Faithful x32](https://faithful.team/) by xMrVizzy and Vattic
 - [MoreCTM Add–on for Faithful 32x](https://www.curseforge.com/minecraft/texture-packs/morectm-addon-for-faithful-32x) by Pomik108
+- [Real Nature](https://www.curseforge.com/minecraft/texture-packs/real-nature-resource-pack-128x-1-10-x-1-9-x-1-8-x) by tirenay
 
 ### Licenses
 - `Bushy Leaves Add-on for Faithful 32x` is distributed under the terms and conditions of the [Creative Commons Public License](https://www.curseforge.com/project/358084/license)
@@ -37,5 +39,6 @@ It is important that the addon is on top of the default faithful pack!
 - `Faithful Alternative` is used with permission from PROJECT HJP
 - `Faithful x32` is distributed under these [terms and conditions](https://www.curseforge.com/minecraft/texture-packs/faithful-32x)
 - `MoreCTM Add–on for Faithful 32x` is distributed under the terms and conditions of the [Creative Commons Public License](https://www.curseforge.com/project/356755/license)
+- `Real Nature` is distributed under the terms and conditions of the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://www.curseforge.com/project/240846/license)
 
 The original work has been modified.
