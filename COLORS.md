@@ -155,22 +155,25 @@ A list with the settings used to change the textures. The program used is [paint
 ### Mob
 | File | Hue | Saturation | Brightness | Second Brightness | Contrast |
 | - | - | - | - | - | - |
-| cow/cow2.png | - | - | - | -125 | ±0 |
-| cow/cow3.png | ±0 | 200% | -50 | - | - |
+| cow/cow2.png () | - | - | - | -125 | ±0 |
+| cow/cow3.png (sepia) | ±0 | 200% | -50 | - | - |
 | cow/cow4.png | ±0 | 0% | -32 | - | - |
-| pig/pig2.png | - | - | - | +75 | ±0 |
+| pig/pig2.png (black & white) | - | - | - | +75 | ±0 |
 | pig/pig3.png | ±0 | 125% | ±0 | - | - |
 | pig/pig4.png | +16 | 75% | ±0 | - | - |
 | pig/pig5.png | ±0 | 150% | ±0 | - | - |
-| bat2.png | - | - | - | - | - |
-| bat3.png | - | - | - | +50 | ±0 |
+| wolf/wolf_tame2.png | - | - | - | -100 | ±0 |
+| wolf/wolf_tame3.png (sepia) | +4 | 150% | ±0 | - | - |
+| wolf/wolf_tame4.png (sepia) | +4 | 150% | ±0 | -50 | ±0 |
+| bat2.png (black & white) | - | - | - | - | - |
+| bat3.png (black & white) | - | - | - | +50 | ±0 |
 | chicken2.png | -8 | 200% | -32 | ±0 | -16 |
 | chicken3.png | - | - | - | -200 | ±0 |
-| chicken4.png | - | - | - | -50 | ±0 |
+| chicken4.png (sepia) | - | - | - | -50 | ±0 |
 | chicken5.png | - | - | - | -150 | ±0 |
 | chicken6.png | - | - | - | -100 | ±0 |
-| chicken7.png | - | - | - | - | - |
+| chicken7.png (sepia) | - | - | - | - | - |
 | squid2.png | -25 | 100% | ±0 | - | - |
 | squid2.png | +25 | 100% | ±0 | - | - |
-| squid4.png | - | - | - | -50 | ±0 |
-| squid5.png | - | - | - | - | - |
+| squid4.png (black & white) | - | - | - | -50 | ±0 |
+| squid5.png (black & white) | - | - | - | - | - |
