@@ -165,6 +165,7 @@ A list with the settings used to change the textures. The program used is [paint
 | wolf/wolf_tame2.png | - | - | - | -100 | ±0 |
 | wolf/wolf_tame3.png (sepia) | +4 | 150% | ±0 | - | - |
 | wolf/wolf_tame4.png (sepia) | +4 | 150% | ±0 | -50 | ±0 |
+| wolf/wolf_tame4.png | - | - | - | +50 | ±0 |
 | bat2.png (black & white) | - | - | - | - | - |
 | bat3.png (black & white) | - | - | - | +50 | ±0 |
 | chicken2.png | -8 | 200% | -32 | ±0 | -16 |
