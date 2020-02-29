@@ -126,6 +126,7 @@ A list with the settings used to change the textures. The program used is [paint
 ### Entity
 | File | Hue | Saturation | Brightness | Second Brightness | Contrast |
 | - | - | - | - | - | - |
+| armorstand/wood.png | -4 | 75% | ±0 | - | - |
 | boat/acacia.png | ±0 | 75% | ±0 | - | - |
 | boat/birch.png | -16 | 75% | ±0 | - | - |
 | boat/dark_oak.png | -4 | 100% | ±0 | +50 | +50 |
@@ -146,8 +147,14 @@ A list with the settings used to change the textures. The program used is [paint
 ### Item
 | File | Hue | Saturation | Brightness | Second Brightness | Contrast |
 | - | - | - | - | - | - |
+| acacia_sign.png | ±0 | 75% | ±0 | - | - |
 | apple.png | +128 | 100% | ±0 | - | - |
+| armor_stand.png | -4 | 75% | ±0 | - | - |
+| birch_sign.png | -16 | 75% | ±0 | - | - |
+| dark_oak_sign.png | -4 | 100% | ±0 | +50 | +50 |
+| oak_sign.png | -4 | 75% | ±0 | - | - |
 | saddle.png | ±0 | 100% | -32 | - | - |
+| spruce_sign.png | -8 | 75% | -25 | - | - |
 | sugar_cane.png | +8 | 116% | -8 | - | - |
 
 ## Optifine
