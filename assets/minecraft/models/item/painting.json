@@ -1,0 +1,54 @@
+{
+    "textures": {
+      "0": "painting/alban",
+      "1": "painting/back",
+      "particle": "painting/back"
+    },
+    "elements": [
+      {
+        "from": [0, 0, 7.5],
+        "to": [16, 16, 8.5],
+        "faces": {
+          "north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+          "east": {"uv": [0, 0, 1, 16], "texture": "#1"},
+          "south": {"uv": [0, 0, 16, 16], "texture": "#1"},
+          "west": {"uv": [15, 0, 16, 16], "texture": "#1"},
+          "up": {"uv": [0, 0, 16, 1], "texture": "#1"},
+          "down": {"uv": [0, 15, 16, 16], "texture": "#1"}
+        }
+      }
+    ],
+    "gui_light": "side",
+    "display": {
+        "gui": {
+            "rotation": [ 30, 225, 0 ],
+            "translation": [ 0, 0, 0],
+            "scale":[ 0.625, 0.625, 0.625 ]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 3, 0],
+            "scale":[ 0.25, 0.25, 0.25 ]
+        },
+        "fixed": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 0, 0],
+            "scale":[ 0.5, 0.5, 0.5 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 2.5, 0],
+            "scale": [ 0.375, 0.375, 0.375 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 90, 0 ],
+            "translation": [ 0, 2, 0 ],
+            "scale": [ 0.40, 0.40, 0.40 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 0, 270, 0 ],
+            "translation": [ 0, 2, 0 ],
+            "scale": [ 0.40, 0.40, 0.40 ]
+        }
+    }
+}
