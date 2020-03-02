@@ -102,6 +102,7 @@ A list with the settings used to change the textures. The program used is [paint
 | scaffolding_top.png | -16 | 75% | ±0 | - | - |
 | spruce_door_bottom.png | -8 | 75% | -25 | - | - |
 | spruce_door_top.png | -8 | 75% | -25 | - | - |
+| spruce_log.png | -8 | 75% | -25 | - | - |
 | spruce_log_top.png | -8 | 75% | -25 | - | - |
 | spruce_planks.png | -8 | 75% | -25 | - | - |
 | spruce_trapdoor.png | -8 | 75% | -25 | - | - |
