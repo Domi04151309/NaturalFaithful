@@ -17,6 +17,7 @@ A list with the settings used to change the textures. The program used is [paint
 | barrel_side.png | -8 | 75% | -25 | - | - |
 | barrel_top.png | -8 | 75% | -25 | - | - |
 | barrel_top_open.png | -8 | 75% | -25 | - | - |
+| beacon.png | ±0 | 50% | +50 | - | - |
 | bedrock.png (stone.png) | - | - | - | -50 | +25 |
 | beehive_end.png | -4 | 75% | ±0 | - | - |
 | beehive_front.png | -4 | 75% | ±0 | - | - |
@@ -56,6 +57,8 @@ A list with the settings used to change the textures. The program used is [paint
 | dark_oak_trapdoor.png | -4 | 100% | ±0 | +50 | +50 |
 | detector_rail.png | -4 | 75% | ±0 | - | - |
 | detector_rail_on.png | -4 | 75% | ±0 | - | - |
+| diamond_block.png | ±0 | 50% | +50 | - | - |
+| diamond_ore.png | ±0 | 50% | +50 | - | - |
 | fletching_table_front.png | -16 | 75% | ±0 | - | - |
 | fletching_table_side.png | -16 | 75% | ±0 | - | - |
 | fletching_table_top.png | -16 | 75% | ±0 | - | - |
@@ -139,6 +142,7 @@ A list with the settings used to change the textures. The program used is [paint
 | chest/trapped.png | -4 | 75% | ±0 | - | - |
 | chest/trapped_left.png | -4 | 75% | ±0 | - | - |
 | chest/trapped_right.png | -4 | 75% | ±0 | - | - |
+| horse/armor/horse_armor_diamond.png | ±0 | 50% | +50 | - | - |
 | signs/acacia.png | ±0 | 75% | ±0 | - | - |
 | signs/birch.png | -16 | 75% | ±0 | - | - |
 | signs/dark_oak.png | -4 | 100% | ±0 | +50 | +50 |
@@ -153,10 +157,27 @@ A list with the settings used to change the textures. The program used is [paint
 | armor_stand.png | -4 | 75% | ±0 | - | - |
 | birch_sign.png | -16 | 75% | ±0 | - | - |
 | dark_oak_sign.png | -4 | 100% | ±0 | +50 | +50 |
+| diamond.png | ±0 | 50% | +50 | - | - |
+| diamond_axe.png | ±0 | 50% | +50 | - | - |
+| diamond_boots.png | ±0 | 50% | +50 | - | - |
+| diamond_chestplate.png | ±0 | 50% | +50 | - | - |
+| diamond_helmet.png | ±0 | 50% | +50 | - | - |
+| diamond_hoe.png | ±0 | 50% | +50 | - | - |
+| diamond_horse_armor.png | ±0 | 50% | +50 | - | - |
+| diamond_leggings.png | ±0 | 50% | +50 | - | - |
+| diamond_pickaxe.png | ±0 | 50% | +50 | - | - |
+| diamond_shovel.png | ±0 | 50% | +50 | - | - |
+| diamond_sword.png | ±0 | 50% | +50 | - | - |
 | oak_sign.png | -4 | 75% | ±0 | - | - |
 | saddle.png | ±0 | 100% | -32 | - | - |
 | spruce_sign.png | -8 | 75% | -25 | - | - |
 | sugar_cane.png | +8 | 116% | -8 | - | - |
+
+### Models
+| File | Hue | Saturation | Brightness | Second Brightness | Contrast |
+| - | - | - | - | - | - |
+| armor/diamond_layer_1.png | ±0 | 50% | +50 | - | - |
+| armor/diamond_layer_2.png | ±0 | 50% | +50 | - | - |
 
 ## Optifine
 
