@@ -1,6 +1,6 @@
 {
-    "parent": "block/cross",
+    "parent": "block/sweet_berry_bush_stage3",
     "textures": {
-        "cross": "block/sweet_berry_bush_stage3_2"
+        "1": "block/sweet_berry_bush_berries_2"
     }
 }

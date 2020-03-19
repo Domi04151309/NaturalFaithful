@@ -1,0 +1,45 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/sweet_berry_bush_small",
+		"particle": "block/sweet_berry_bush_small"
+	},
+	"elements": [
+		{
+			"name": "SideNS",
+			"from": [3, 0, 5],
+			"to": [13, 8, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [11, 8, 8]},
+			"faces": {
+				"north": {"uv": [3, 4, 13, 12], "texture": "#0"},
+				"south": {"uv": [3, 4, 13, 12], "texture": "#0"}
+			}
+		},
+		{
+			"name": "SideEW",
+			"from": [5, 0, 3],
+			"to": [11, 8, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 11]},
+			"faces": {
+				"east": {"uv": [3, 4, 13, 12], "texture": "#0"},
+				"west": {"uv": [3, 4, 13, 12], "texture": "#0"}
+			}
+		},
+		{
+			"name": "SideUD",
+			"from": [3, 0, 4],
+			"to": [13, 6, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 3, 9]},
+			"faces": {
+				"up": {"uv": [3, 4, 13, 12], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "Bush",
+			"origin": [8, 8, 11],
+			"children": [0, 1, 2]
+		}
+	]
+}
