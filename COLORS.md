@@ -188,9 +188,9 @@ A list with the settings used to change the textures. The program used is [paint
 | cow/cow3.png (sepia) | ±0 | 200% | -50 | - | - |
 | cow/cow4.png | ±0 | 0% | -32 | - | - |
 | pig/pig2.png (black & white) | - | - | - | +75 | ±0 |
-| pig/pig3.png | ±0 | 125% | ±0 | - | - |
+| pig/pig3.png (sepia) | ±0 | 125% | ±0 | - | - |
 | pig/pig4.png | +16 | 75% | ±0 | - | - |
-| pig/pig5.png | ±0 | 150% | ±0 | - | - |
+| pig/pig5.png (sepia) | ±0 | 150% | ±0 | - | - |
 | wolf/wolf_tame2.png | - | - | - | -100 | ±0 |
 | wolf/wolf_tame3.png (sepia) | +4 | 150% | ±0 | - | - |
 | wolf/wolf_tame4.png (sepia) | +4 | 150% | ±0 | -50 | ±0 |
