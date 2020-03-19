@@ -62,6 +62,8 @@ A list with the settings used to change the textures. The program used is [paint
 | fletching_table_front.png | -16 | 75% | ±0 | - | - |
 | fletching_table_side.png | -16 | 75% | ±0 | - | - |
 | fletching_table_top.png | -16 | 75% | ±0 | - | - |
+| gold_block.png | -10 | 100% | ±0 | - | - |
+| gold_ore.png | -10 | 100% | ±0 | - | - |
 | grass_path_side.png | -16 | 75% | ±0 | - | - |
 | grass_path_top.png | -16 | 75% | ±0 | - | - |
 | ladder.png | -4 | 75% | ±0 | - | - |
@@ -143,6 +145,7 @@ A list with the settings used to change the textures. The program used is [paint
 | chest/trapped_left.png | -4 | 75% | ±0 | - | - |
 | chest/trapped_right.png | -4 | 75% | ±0 | - | - |
 | horse/armor/horse_armor_diamond.png | ±0 | 50% | +50 | - | - |
+| horse/armor/horse_armor_gold.png | -10 | 100% | ±0 | - | - |
 | signs/acacia.png | ±0 | 75% | ±0 | - | - |
 | signs/birch.png | -16 | 75% | ±0 | - | - |
 | signs/dark_oak.png | -4 | 100% | ±0 | +50 | +50 |
@@ -168,6 +171,20 @@ A list with the settings used to change the textures. The program used is [paint
 | diamond_pickaxe.png | ±0 | 50% | +50 | - | - |
 | diamond_shovel.png | ±0 | 50% | +50 | - | - |
 | diamond_sword.png | ±0 | 50% | +50 | - | - |
+| gold_ingot.png | -10 | 100% | ±0 | - | - |
+| gold_nugget.png | -10 | 100% | ±0 | - | - |
+| golden_apple.png | -10 | 100% | ±0 | - | - |
+| golden_axe.png | -10 | 100% | ±0 | - | - |
+| golden_boots.png | -10 | 100% | ±0 | - | - |
+| golden_carrot.png | -10 | 100% | ±0 | - | - |
+| golden_chestplate.png | -10 | 100% | ±0 | - | - |
+| golden_helmet.png | -10 | 100% | ±0 | - | - |
+| golden_hoe.png | -10 | 100% | ±0 | - | - |
+| golden_horse_armor.png | -10 | 100% | ±0 | - | - |
+| golden_leggings.png | -10 | 100% | ±0 | - | - |
+| golden_pickaxe.png | -10 | 100% | ±0 | - | - |
+| golden_shovel.png | -10 | 100% | ±0 | - | - |
+| golden_sword.png | -10 | 100% | ±0 | - | - |
 | oak_sign.png | -4 | 75% | ±0 | - | - |
 | saddle.png | ±0 | 100% | -32 | - | - |
 | spruce_sign.png | -8 | 75% | -25 | - | - |
@@ -178,6 +195,8 @@ A list with the settings used to change the textures. The program used is [paint
 | - | - | - | - | - | - |
 | armor/diamond_layer_1.png | ±0 | 50% | +50 | - | - |
 | armor/diamond_layer_2.png | ±0 | 50% | +50 | - | - |
+| armor/gold_layer_1.png | -10 | 100% | ±0 | - | - |
+| armor/gold_layer_2.png | -10 | 100% | ±0 | - | - |
 
 ## Optifine
 
