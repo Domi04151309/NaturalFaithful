@@ -20,6 +20,7 @@ It is important that the addon is on top of the default faithful pack!
 
 ### Based on These Packs
 ![Version](https://img.shields.io/badge/Bushy%20Leaves%20Add--on%20for%20Faithful%2032x-1.15.1-success?style=flat-square)
+![Version](https://img.shields.io/badge/Crops%203D-v1.0.0-success?style=flat-square)
 ![Version](https://img.shields.io/badge/Faithful%203D-1.15.2--v1-success?style=flat-square)
 ![Version](https://img.shields.io/badge/Faithful%20Alternative-1.15.2--v2.2-success?style=flat-square)
 ![Version](https://img.shields.io/badge/Faithful%20x32-1.15.2--r1-success?style=flat-square)
@@ -28,6 +29,7 @@ It is important that the addon is on top of the default faithful pack!
 ![Version](https://img.shields.io/badge/Ultimacraft-beta%20v1.7-success?style=flat-square)
 
 - [Bushy Leaves Add-on for Faithful 32x](https://www.curseforge.com/minecraft/texture-packs/bushy-leaves-add-on-for-faithful-32x) by Pomik108
+- [Crops 3D](https://www.curseforge.com/minecraft/texture-packs/crops-3d) by Ninth World
 - [Faithful 3D](https://www.curseforge.com/minecraft/texture-packs/faithful-3d) by Juknum, Progical and Howler
 - [Faithful Alternative](https://www.planetminecraft.com/texture_pack/faithful-alternative-texture/) by jogurciQ, Pomik and PROJECT HJP
 - [Faithful x32](https://faithful.team/) by xMrVizzy and Vattic
@@ -37,6 +39,7 @@ It is important that the addon is on top of the default faithful pack!
 
 ### Licenses
 - `Bushy Leaves Add-on for Faithful 32x` is distributed under the terms and conditions of the [Creative Commons Public License](https://www.curseforge.com/project/358084/license)
+- `Crops 3D` is distributed under the terms and conditions of the [MIT License](https://www.curseforge.com/project/364145/license)
 - `Faithful 3D` is distributed under these [terms and conditions](https://github.com/Juknum/Faithful-3D#important-information)
 - `Faithful Alternative` is used with permission from PROJECT HJP
 - `Faithful x32` is distributed under these [terms and conditions](https://www.curseforge.com/minecraft/texture-packs/faithful-32x)
