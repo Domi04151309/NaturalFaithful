@@ -190,6 +190,11 @@ A list with the settings used to change the textures. The program used is [paint
 | spruce_sign.png | -8 | 75% | -25 | - | - |
 | sugar_cane.png | +8 | 116% | -8 | - | - |
 
+### Misc
+| File | Hue | Saturation | Brightness | Second Brightness | Contrast |
+| - | - | - | - | - | - |
+| enchanted_item_glint.png | ±0 | 100% | +150 | - | - |
+
 ### Models
 | File | Hue | Saturation | Brightness | Second Brightness | Contrast |
 | - | - | - | - | - | - |
