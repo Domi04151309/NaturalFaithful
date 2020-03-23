@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/purpur_block" },
+            { "model": "block/purpur_block/1" },
+			{ "model": "block/purpur_block/2" },
+			{ "model": "block/purpur_block/3" },
+			{ "model": "block/purpur_block/4" }
+        ]
+    }
+}
+

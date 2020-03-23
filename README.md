@@ -22,7 +22,7 @@ It is important that the addon is on top of the default faithful pack!
 ![Version](https://img.shields.io/badge/Bushy%20Leaves%20Add--on%20for%20Faithful%2032x-1.15.1-success?style=flat-square)
 ![Version](https://img.shields.io/badge/Crops%203D-v1.0.0-success?style=flat-square)
 ![Version](https://img.shields.io/badge/Faithful%203D-1.15.2--v1-success?style=flat-square)
-![Version](https://img.shields.io/badge/Faithful%20Alternative-1.15.2--v2.2-success?style=flat-square)
+![Version](https://img.shields.io/badge/Faithful%20Alternative-1.15.2--v2.3-success?style=flat-square)
 ![Version](https://img.shields.io/badge/Faithful%20x32-1.15.2--r1-success?style=flat-square)
 ![Version](https://img.shields.io/badge/MoreCTM%20Add--on%20for%20Faithful%2032x-1.15.1-success?style=flat-square)
 ![Version](https://img.shields.io/badge/Real%20Nature-v2.3-success?style=flat-square)
