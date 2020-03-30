@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "half=lower": [
+			{ "model": "block/lilac_bottom" },
+			{ "model": "block/lilac/bottom/1" },
+			{ "model": "block/lilac/bottom/2" },
+			{ "model": "block/lilac/bottom/3" }
+		],
+        "half=upper": [
+			{ "model": "block/lilac_top" },
+			{ "model": "block/lilac/top/1" },
+			{ "model": "block/lilac/top/2" },
+			{ "model": "block/lilac/top/3" }
+		]
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "particle": "block/lilac_bottom1",
+        "cross": "block/lilac_bottom1"
+    }
+}
