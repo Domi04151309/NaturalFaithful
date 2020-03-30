@@ -1,10 +1,28 @@
 {
-    "variants": {
-        "": [
-            { "model": "block/carved_pumpkin"},
-            { "model": "block/carved_pumpkin/1"},
-			{ "model": "block/carved_pumpkin/2"},
-			{ "model": "block/carved_pumpkin/3"}
-		]
-    }
+  "variants": {
+    "facing=north": [
+      { "model": "block/carved_pumpkin" },
+      { "model": "block/carved_pumpkin/1" },
+      { "model": "block/carved_pumpkin/2" },
+      { "model": "block/carved_pumpkin/3" }
+    ],
+    "facing=south": [
+      { "model": "block/carved_pumpkin", "y": 180  },
+      { "model": "block/carved_pumpkin/1", "y": 180  },
+      { "model": "block/carved_pumpkin/2", "y": 180  },
+      { "model": "block/carved_pumpkin/3", "y": 180  }
+    ],
+    "facing=west": [
+      { "model": "block/carved_pumpkin", "y": 270  },
+      { "model": "block/carved_pumpkin/1", "y": 270  },
+      { "model": "block/carved_pumpkin/2", "y": 270  },
+      { "model": "block/carved_pumpkin/3", "y": 270  }
+    ],
+    "facing=east": [
+      { "model": "block/carved_pumpkin", "y": 90  },
+      { "model": "block/carved_pumpkin/1", "y": 90  },
+      { "model": "block/carved_pumpkin/2", "y": 90  },
+      { "model": "block/carved_pumpkin/3", "y": 90  }
+    ]
+  }
 }
