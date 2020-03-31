@@ -1,32 +1,53 @@
 {
-    "variants": {
-        "distance=1": [
-			{ "model": "block/jungle_leaves" },
-			{ "model": "block/jungle_leaves1" }
-				],
-        "distance=2": [
-			{ "model": "block/jungle_leaves" },
-			{ "model": "block/jungle_leaves1" }
-				],
-        "distance=3": [
-			{ "model": "block/jungle_leaves" },
-			{ "model": "block/jungle_leaves1" }
-				],
-        "distance=4": [
-			{ "model": "block/jungle_leaves" },
-			{ "model": "block/jungle_leaves1" }
-				],
-        "distance=5": [
-			{ "model": "block/jungle_leaves" },
-			{ "model": "block/jungle_leaves1" }
-				],
-        "distance=6": [
-			{ "model": "block/jungle_leaves" },
-			{ "model": "block/jungle_leaves1" }
-				],
-        "distance=7": [
-			{ "model": "block/jungle_leaves" },
-			{ "model": "block/jungle_leaves1" }
-				]
-    }
+  "variants": {
+    "distance=1": [
+      { "model": "block/jungle_leaves" },
+      { "model": "block/jungle_leaves1" },
+      { "model": "block/jungle_leaves/1" },
+      { "model": "block/jungle_leaves/2" },
+      { "model": "block/jungle_leaves/3" }
+    ],
+    "distance=2": [
+      { "model": "block/jungle_leaves" },
+      { "model": "block/jungle_leaves1" },
+      { "model": "block/jungle_leaves/1" },
+      { "model": "block/jungle_leaves/2" },
+      { "model": "block/jungle_leaves/3" }
+    ],
+    "distance=3": [
+      { "model": "block/jungle_leaves" },
+      { "model": "block/jungle_leaves1" },
+      { "model": "block/jungle_leaves/1" },
+      { "model": "block/jungle_leaves/2" },
+      { "model": "block/jungle_leaves/3" }
+    ],
+    "distance=4": [
+      { "model": "block/jungle_leaves" },
+      { "model": "block/jungle_leaves1" },
+      { "model": "block/jungle_leaves/1" },
+      { "model": "block/jungle_leaves/2" },
+      { "model": "block/jungle_leaves/3" }
+    ],
+    "distance=5": [
+      { "model": "block/jungle_leaves" },
+      { "model": "block/jungle_leaves1" },
+      { "model": "block/jungle_leaves/1" },
+      { "model": "block/jungle_leaves/2" },
+      { "model": "block/jungle_leaves/3" }
+    ],
+    "distance=6": [
+      { "model": "block/jungle_leaves" },
+      { "model": "block/jungle_leaves1" },
+      { "model": "block/jungle_leaves/1" },
+      { "model": "block/jungle_leaves/2" },
+      { "model": "block/jungle_leaves/3" }
+    ],
+    "distance=7": [
+      { "model": "block/jungle_leaves" },
+      { "model": "block/jungle_leaves1" },
+      { "model": "block/jungle_leaves/1" },
+      { "model": "block/jungle_leaves/2" },
+      { "model": "block/jungle_leaves/3" }
+    ]
+  }
 }
