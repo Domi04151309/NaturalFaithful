@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      { "model": "block/cobweb"},
+      { "model": "block/cobweb/1"},
+      { "model": "block/cobweb/2"},
+      { "model": "block/cobweb/3"}
+    ]
+  }
+}
