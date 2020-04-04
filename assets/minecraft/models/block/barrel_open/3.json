@@ -1,22 +1,6 @@
 {
-	"parent": "block/cube_bottom_top",
+	"parent": "block/barrel_open",
 	"textures": {
-		"top": "block/barrel_top_open3",
-		"side": "block/barrel_side",
-		"bottom": "block/barrel_bottom"
-	},
-	"elements": [
-		{
-			"from": [0, 0, 0],
-			"to": [16, 16, 16],
-			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#side"},
-				"east": {"uv": [0, 0, 16, 16], "texture": "#side"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#side"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#side"},
-				"up": {"uv": [0, 0, 16, 16], "texture": "#top"},
-				"down": {"uv": [0, 0, 16, 16], "texture": "#bottom"}
-			}
-		}
-	]
+		"4": "block/barrel_top_open3"
+	}
 }
