@@ -122,6 +122,9 @@ A list with the settings used to change the textures. The program used is [paint
 | stripped_spruce_log.png | -8 | 75% | -25 | - | - |
 | stripped_spruce_log_top.png | -8 | 75% | -25 | - | - |
 | sugar_cane.png | +8 | 116% | -8 | - | - |
+| water_flow.png (sepia) | +128 | 200% | ±0 | - | - |
+| water_overlay.png (sepia) | +128 | 200% | ±0 | - | - |
+| water_still.png (sepia) | +128 | 200% | ±0 | - | - |
 
 ### Colormap
 | File | Hue | Saturation | Brightness | Second Brightness | Contrast |
