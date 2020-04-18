@@ -105,6 +105,12 @@ A list with the settings used to change the textures. The program used is [paint
 | scaffolding_bottom.png | -16 | 75% | ±0 | - | - |
 | scaffolding_side.png | -16 | 75% | ±0 | - | - |
 | scaffolding_top.png | -16 | 75% | ±0 | - | - |
+| smoker_bottom.png | -4 | 75% | ±0 | - | - ||
+| smoker_front.png | -4 | 75% | ±0 | - | - ||
+| smoker_front_on.png | -4 | 75% | ±0 | - | - ||
+| smoker_side.png | -4 | 75% | ±0 | - | - ||
+| smoker_top.png | -4 | 75% | ±0 | - | - |
+| scaffolding_side.png | -16 | 75% | ±0 | - | - |
 | spruce_door_bottom.png | -8 | 75% | -25 | - | - |
 | spruce_door_top.png | -8 | 75% | -25 | - | - |
 | spruce_log.png | -8 | 75% | -25 | - | - |
