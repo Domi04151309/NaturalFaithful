@@ -117,6 +117,9 @@ A list with the settings used to change the textures. The program used is [paint
 | spruce_log_top.png | -8 | 75% | -25 | - | - |
 | spruce_planks.png | -8 | 75% | -25 | - | - |
 | spruce_trapdoor.png | -8 | 75% | -25 | - | - |
+| stonecutter_side.png | -8 | 75% | -25 | - | - |
+| stonecutter_top.png | -8 | 75% | -25 | - | - |
+| stonecutter_alternative.png | -8 | 75% | -25 | - | - |
 | stripped_acacia_log.png | ±0 | 75% | ±0 | - | - |
 | stripped_acacia_log_top.png | ±0 | 75% | ±0 | - | - |
 | stripped_birch_log.png | -16 | 75% | ±0 | - | - |
