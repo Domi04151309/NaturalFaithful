@@ -7,7 +7,7 @@
 		"2": "block/pumpkin_top",
 		"3": "block/pumpkin_bottom",
 		"4": "block/pumpkin_top_2",
-		"particle": "block/carved_pumpkin"
+		"particle": "block/pumpkin_side"
 	},
 	"elements": [
 		{
