@@ -1,9 +1,7 @@
 {
-	"credit": "Made with Blockbench",
 	"parent": "item/generic_display",
 	"textures": {
-		"0": "Desktop/flint_and_steel",
-		"particle": "Desktop/flint_and_steel"
+		"0": "item/flint_and_steel"
 	},
 	"elements": [
 		{
