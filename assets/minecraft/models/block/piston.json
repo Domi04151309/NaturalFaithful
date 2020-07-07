@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench by Juknum",
 	"ambientocclusion": false,
 	"textures": {
-		"3": "block/piston_bottom",
+		"3": "block/furnace_top",
 		"platform": "block/piston_top",
 		"side": "block/piston_side",
 		"unsticky": "block/piston_top",

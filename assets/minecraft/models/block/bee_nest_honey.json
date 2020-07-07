@@ -1,9 +1,9 @@
 {
-	"credit": "Designed by Juknum",
+	"credit": "Designed by Juknum. Edited by Fenix",
 	"parent": "block/block",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "block/bee_nest_front",
+		"0": "block/bee_nest_front_honey",
 		"2": "block/bee_nest_side",
 		"3": "block/bee_nest_top",
 		"4": "block/bee_nest_bottom",
