@@ -1,6 +1,6 @@
 ![Pack Icon](https://raw.githubusercontent.com/Domi04151309/NaturalFaithful/master/pack.png)
 
-![Minecraft Version](https://img.shields.io/badge/Minecraft-1.15.2-success?style=flat-square)
+![Minecraft Version](https://img.shields.io/badge/Minecraft-1.16.1-success?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-dev-important?style=flat-square)
 
 # NaturalFaithful
@@ -23,7 +23,7 @@ It is important that the addon is on top of the default faithful pack!
 ![Version](https://img.shields.io/badge/Crops%203D-v1.0.0-success?style=flat-square)
 ![Version](https://img.shields.io/badge/Faithful%203D-0cdd021-success?style=flat-square)
 ![Version](https://img.shields.io/badge/Faithful%20Alternative-v2.4-success?style=flat-square)
-![Version](https://img.shields.io/badge/Faithful%20x32-1.15.2--r1-success?style=flat-square)
+![Version](https://img.shields.io/badge/Faithful%20x32-1.16.1-success?style=flat-square)
 ![Version](https://img.shields.io/badge/MoreCTM%20Add--on%20for%20Faithful%2032x-v1.3-success?style=flat-square)
 ![Version](https://img.shields.io/badge/Real%20Nature-v2.3-success?style=flat-square)
 ![Version](https://img.shields.io/badge/Ultimacraft-beta%20v1.7-success?style=flat-square)
